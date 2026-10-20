@@ -1,7 +1,7 @@
 # 🛡️ UKM Cybertech Politeknik Negeri Padang (2026/2027)
 
 > **"Technology Can Unite Anything"**  
-> *Makna: Dengan teknologi informasi, kita dapat menyatukan apa pun.*
+> _Makna: Dengan teknologi informasi, kita dapat menyatukan apa pun._
 
 ---
 
@@ -17,9 +17,11 @@
 ## 🎯 Visi & Misi
 
 ### 👁️ Visi
+
 Menjadikan mahasiswa Politeknik Negeri Padang untuk mencapai standar mutu tertinggi dan berdaya saing di dunia Teknologi Informasi.
 
 ### 🎯 Misi
+
 Berfungsi sebagai wadah bagi mahasiswa PNP untuk mengembangkan minat, bakat, dan potensi diri dalam dunia TI secara profesional dan berkarakter.
 
 ---
@@ -66,23 +68,30 @@ graph TD
 ```
 
 ---
+
 ## 💻 Divisi Spesialisasi
 
 ### 1. ⚡ Programming
+
 Mempunyai fokus keahlian pada:
+
 - Website Development (Next.js, React, TypeScript, Node.js)
 - Mobile App Development (Flutter, React Native)
 - Game Development
 - Machine Learning & Dasar Pemrograman
 
 ### 2. 🌐 Networking
+
 Mempunyai fokus keahlian pada:
+
 - Konfigurasi Jaringan Komputer (Cisco, Mikrotik)
 - Router & Switch Administration
 - Cloud Infrastructure & Cyber Security
 
 ### 3. 🎨 Multimedia
+
 Mempunyai fokus keahlian pada:
+
 - UI/UX Design & Prototyping
 - Desain Grafis & Digital Illustration
 - Video Editing & Motion Graphics
@@ -93,10 +102,13 @@ Mempunyai fokus keahlian pada:
 ## 🏆 Event Utama
 
 ### ⚡ Hackathon Nasional
-Event tahunan terbesar UKM Cybertech berupa ajang *live coding* selama **24 jam** nonstop untuk membangun sebuah produk perangkat lunak/inovasi digital.  
+
+Event tahunan terbesar UKM Cybertech berupa ajang _live coding_ selama **24 jam** nonstop untuk membangun sebuah produk perangkat lunak/inovasi digital.
+
 - **Instagram Event**: [@hackathon_cybertech](https://instagram.com/hackathon_cybertech)
 
 ### 📢 Event Lainnya
+
 - Seminar Nasional & Regional TI
 - Webinar & Tech Talk
 - Workshop & Intensive Coding Bootcamp

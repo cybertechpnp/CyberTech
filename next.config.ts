@@ -1,6 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  // Output minimal untuk deployment Docker (menghasilkan .next/standalone/server.js)
+  output: 'standalone',
   allowedDevOrigins: [
     '*.ngrok-free.app',
     '*.ngrok-free.dev',
